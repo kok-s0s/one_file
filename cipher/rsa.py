@@ -4,7 +4,6 @@ Author: kok-s0s
 信息来源
 https://kok-s0s.top/index.php/archives/198/
 
-我顺带回顾自己学过的知识，这时间我是赚的。
 现在做这个思路很清晰，绝对能看懂，就是个规则罢了。
 作为一个学习者最好做个学习 Note 记录下自己真正的学习 RSA 的感受。
 
